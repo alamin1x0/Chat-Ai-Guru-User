@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669876377149",
+    "project_id": "aiguruapp",
+    "storage_bucket": "aiguruapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669876377149:android:cdcb95c8a51429b0643c54",
+        "android_client_info": {
+          "package_name": "com.chataiguru.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669876377149-v1g303v4g2v3jeo099ashs8v4ic4blfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chataiguru.app",
+            "certificate_hash": "e015aed062b0272d0035028439be31fed1f98d6d"
+          }
+        },
+        {
+          "client_id": "669876377149-6m6v5tp4f9voh5nggngqfcp1188mlki8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDWsis3kVADiEL0iwIny_04a5zuWJhUNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669876377149-429p50v032sh2h7gd1vud6c6e5spg81t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
